@@ -1,3 +1,9 @@
+<p align="center">
+  <img src="thumbnail37.png" width="800">
+</p>
+
+---
+
 # 🚗 Car Price Prediction using Random Forest
 
 ## 📌 Project Overview
@@ -109,6 +115,11 @@ streamlit run app.py
 https://senthamill.vercel.app/
 
 ---
+## 🔗 Links
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/senthamil45)
+- 🌍 [Portfolio](https://senthamill.vercel.app/)
+- 💻 [GitHub](https://github.com/selvan-01/car-price-prediction.git)
 
 ## 🙌 Author
 
